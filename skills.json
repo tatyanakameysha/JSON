@@ -1,0 +1,32 @@
+{
+	"basic theory": [
+		"bug reports",
+		"documentation",
+		"types of testing",
+		"methods"
+		],
+	"stress testing":"Jmeter",
+	"dev tools": [
+		"Google Chtome",
+		"FireFox"
+		],
+	"structure":[
+		"JSON",
+		"XML"
+		],
+	"API testing":"Postman",
+	"VPN":[
+		"How it works",
+		"why you need",
+		"how to use",
+		"tools"
+		],
+	"other skills":[
+		"mobile testing",
+		"features":[
+			"iOS",
+			"Android"
+			],
+		"client server architecture"
+		]
+}
