@@ -1,10 +1,10 @@
 {
   "Bug":"1",
-  "Title":"",
+  "Title":"описание раздела 'жителям района' сливается с названием раздела",
   "Environment":"cat/etc/os-release. Google Chrome Версия 90.0.4430.212",
-  "Precondition":"",
-  "Stepes to reproduce":"",
-  "Actual result":"",
-  "Expected result":""б
-  "Attachments":"Image (video) link"
+  "Precondition":"зайти на сайт http://www.logoysk.gov.by/?template=logoyskgovby_1.0",
+  "Stepes to reproduce":"1.Обратить внимание на раздел 'жителям района'",
+  "Actual result":"описание раздела 'жителям района' перекрывает название раздела",
+  "Expected result":"текст описания раздела и название раздела не перекрывают друг друга ",
+  "Attachments":"Image link https://drive.google.com/drive/u/1/folders/1ECq98Wrn1GUzc0Zw8XZk1r0mJLZQRfhc"
   }
